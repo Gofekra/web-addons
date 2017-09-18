@@ -3,8 +3,8 @@
     'name': 'Organization Chart',
     'version': '1.0',
     'category': 'OdooBro Apps',
-    'author': 'OdooBro',
-    'website': '',
+    'author': 'OdooBro - odoobro.contact@gmail.com',
+    'website': 'odoobro.com',
     'license': 'AGPL-3',
     'depends': [
         'hr',
